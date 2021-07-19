@@ -4,13 +4,13 @@
     "location": "Oslo, NO",
     "avatar": "avatar.jpg",
     "pronouns": "he/his",
-    "email": "hello@lancevadla.com",
+    "email": "vadla@pm.me",
     "telephone": "+47 949 83 117",
     "website": "https://lancevadla.com",
     "skills": [
         "HTML",
         "CSS",
-        "Javascript (ES6)",
+        "ECMAscript",
         "Typescript",
         "UI Design",
         "React",
@@ -36,6 +36,11 @@
             "name": "Github",
             "user": "@lvadla",
             "url": "https://github.com/lvadla"
+        },
+        {
+            "name": "Gitlab",
+            "user": "@vadla",
+            "url": "https://gitlab.com/vadla"
         },
         {
             "name": "LinkedIn",
