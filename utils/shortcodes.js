@@ -5,7 +5,7 @@ module.exports = {
             'github',
             'gitlab',
             'twitter',
-            'linkedin',
+            'linkedon',
             'skype',
             'dribbble',
             'behance',
