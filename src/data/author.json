@@ -3,16 +3,13 @@
     "occupation": "Software Engineer",
     "location": "Oslo, Norway",
     "avatar": "avatar.jpg",
-    "pronouns": "he/his",
     "email": "hello@lancevadla.com",
-    "telephone": "available upon request",
     "website": "https://lancevadla.com",
     "skills": [
         "HTML",
         "CSS",
         "Javascript",
         "Typescript",
-        "UI Design",
         "React",
         "Svelte",
         "Git"
